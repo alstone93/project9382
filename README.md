@@ -34,11 +34,7 @@ This is a web based application developed for health related based website in in
 
 ### healthbot -
 
-
-![Screenshot (40)](https://github.com/alstone93/project9382/assets/113782226/2cd794b4-d64e-45af-8d53-8d6b245716d9)
-
-
-
+![Screenshot (41)](https://github.com/alstone93/project9382/assets/113782226/e48af6f1-32ef-4da1-8b90-93731294debd)
 
 ## Tech Stack
 
