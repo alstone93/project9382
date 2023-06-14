@@ -1,4 +1,4 @@
-
+project9382
 # Glory Luxe
 
 This is a web based application developed for health related based website in india
@@ -21,15 +21,27 @@ This is a web based application developed for health related based website in in
 
 ## ScreenShots
 
-![Screenshot (37)](https://github.com/alstone93/project9382/assets/113782226/67cac382-4992-40e5-b484-eb35a8da97b3)
+![Screenshot (50)](https://github.com/alstone93/project9382/assets/113782226/528a12f5-4f93-4f10-9047-1d67f454b8bc)
 
-![Screenshot (38)](https://github.com/alstone93/project9382/assets/113782226/f93bd621-22e9-4ec0-97bb-e352c9f2beeb)
+![Screenshot (51)](https://github.com/alstone93/project9382/assets/113782226/b09cd3e8-b987-4d56-9ada-d5f48a425892)
+
+![Screenshot (52)](https://github.com/alstone93/project9382/assets/113782226/2045016f-950e-452b-b44b-a834b1d52f1d)
+
+![Screenshot (53)](https://github.com/alstone93/project9382/assets/113782226/f6174758-d5e4-41cb-a77b-066e1d5a13bb)
 
 
 ## About Us - 
 
+![Screenshot (54)](https://github.com/alstone93/project9382/assets/113782226/e03e0f0c-8123-4544-8d1b-25782e78c906)
 
-![Screenshot (39)](https://github.com/alstone93/project9382/assets/113782226/907d712f-1319-4195-becb-aa392d004a80)
+## service -
+
+![Screenshot (55)](https://github.com/alstone93/project9382/assets/113782226/c46e78ce-bb07-4843-bfd3-a4ed7354ae77)
+
+
+## contact us -
+
+![Screenshot (56)](https://github.com/alstone93/project9382/assets/113782226/17967656-ea10-4252-ace2-20994560e004)
 
 
 ### healthbot -
